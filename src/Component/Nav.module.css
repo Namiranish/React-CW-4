@@ -73,7 +73,7 @@
     }
 
     .navLinks {
-        gap: 15px;
+        display: none;
     }
 
     .button {
